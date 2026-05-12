@@ -16,7 +16,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=unity,blender,html,css,github,vscode,discord,py" alt="Skills" width="400" />
+<img src="https://skillicons.dev/icons?i=unity,blender,html,css,github,vscode,discord,py,latex" alt="Skills" width="400" />
 
 </div>
 
