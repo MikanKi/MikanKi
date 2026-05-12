@@ -23,7 +23,6 @@
         <img width="100" height="100" alt="SESK_walk_l" src="https://github.com/user-attachments/assets/a577f41c-d6a3-4069-b6ba-b2fb31d9a4a5" />
         <img width="100" height="100" alt="MAFK_walk_l" src="https://github.com/user-attachments/assets/16b60b3b-09a6-47d2-acbb-1cea78ff281d" />
         <img width="100" height="100" alt="STIL_walk_l" src="https://github.com/user-attachments/assets/2f84c302-19ff-47e1-bef4-b9f851391540" />
-        <img width="100" height="100" alt="MRCB_walk_l" src="https://github.com/user-attachments/assets/05ef1dab-66cb-41c6-b07f-81def679d7c6" />
         <img width="100" height="100" alt="OGCP_walk_l" src="https://github.com/user-attachments/assets/ac848934-0251-4949-98ce-60561e5a09d4" />
         </h1>
   </div>
